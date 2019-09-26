@@ -14,3 +14,8 @@ int main(int argc, char * argv[]) {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
 }
+
+
+
+//Looks like your commitEditing style block has not been finished.
+//You’re never calling your remove(entry: function

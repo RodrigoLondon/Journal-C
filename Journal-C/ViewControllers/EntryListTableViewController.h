@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  EntryListTableViewController.h
 //  Journal-C
 //
 //  Created by Lewis Jones on 01/02/2019.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface EntryListTableViewController : UITableViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
